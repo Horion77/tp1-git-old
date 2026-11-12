@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Bonjour ESME !\n");
+    printf("Bonjour ESME A2 !\n");
     return 0;
 }
