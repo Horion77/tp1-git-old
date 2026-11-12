@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "robot.h"
 
 int main(void)
 {
@@ -8,5 +9,6 @@ int main(void)
 ");
     printf("Le robot demarre
 ");
+    move_forward();
     return 0;
 }
