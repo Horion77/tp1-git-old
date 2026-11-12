@@ -1,0 +1,10 @@
+# Fichiers compiles
+*.o
+*.exe
+
+# Fichiers de logs
+*.log
+
+# Dossiers
+modules/
+.vscode/
