@@ -6,5 +6,7 @@ int main(void)
 ");
     printf("Au revoir !
 ");
+    printf("Le robot demarre
+");
     return 0;
 }
