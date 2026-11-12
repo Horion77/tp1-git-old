@@ -2,7 +2,9 @@
 
 int main(void)
 {
-    printf("Bonjour ESME A2 !\n");
-    printf("Au revoir !\n");
+    printf("Bonjour ESME A2, bienvenue !
+");
+    printf("Au revoir !
+");
     return 0;
 }
